@@ -1,0 +1,16 @@
+Label,antes,despues,eliminados,porcentaje_eliminado
+BENIGN,2271320,2094360,176960,7.791
+Bot,1956,1948,8,0.409
+DDoS,128025,128011,14,0.011
+DoS GoldenEye,10293,10286,7,0.068
+DoS Hulk,230124,172717,57407,24.946
+DoS Slowhttptest,5499,5228,271,4.928
+DoS slowloris,5796,5384,412,7.108
+FTP-Patator,7935,5931,2004,25.255
+Heartbleed,11,11,0,0.0
+Infiltration,36,36,0,0.0
+PortScan,158804,90130,68674,43.245
+SSH-Patator,5897,3219,2678,45.413
+Web Attack - Brute Force,1507,1470,37,2.455
+Web Attack - Sql Injection,21,21,0,0.0
+Web Attack - XSS,652,652,0,0.0

@@ -1,0 +1,5 @@
+clases,grupos,registros
+BENIGN | DoS Hulk,129,5034
+BENIGN | PortScan,564,1618
+BENIGN | DDoS,3,9
+BENIGN | DoS slowloris,1,5

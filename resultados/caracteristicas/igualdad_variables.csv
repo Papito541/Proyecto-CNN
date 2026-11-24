@@ -1,0 +1,10 @@
+variable_1,variable_2,filas_diferentes,identicas
+Total Fwd Packets,Subflow Fwd Packets,0,True
+Total Backward Packets,Subflow Bwd Packets,0,True
+Total Length of Fwd Packets,Subflow Fwd Bytes,1,False
+Total Length of Bwd Packets,Subflow Bwd Bytes,146,False
+Fwd Packet Length Mean,Avg Fwd Segment Size,1,False
+Bwd Packet Length Mean,Avg Bwd Segment Size,62,False
+Fwd PSH Flags,SYN Flag Count,0,True
+RST Flag Count,ECE Flag Count,3,False
+Fwd URG Flags,CWE Flag Count,0,True

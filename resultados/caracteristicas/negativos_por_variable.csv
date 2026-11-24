@@ -1,0 +1,11 @@
+,valores_negativos
+Flow IAT Min,2880
+Flow Duration,107
+Flow IAT Mean,107
+Flow Packets/s,107
+Flow IAT Max,107
+Flow Bytes/s,78
+Fwd Header Length,35
+min_seg_size_forward,35
+Bwd Header Length,22
+Fwd IAT Min,17

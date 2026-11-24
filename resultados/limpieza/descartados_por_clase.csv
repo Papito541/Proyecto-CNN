@@ -1,0 +1,44 @@
+archivo,clase,descartados
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,BENIGN,15
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,DDoS,1
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,BENIGN,5
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,DDoS,1
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,BENIGN,12
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,BENIGN,57
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,PortScan,8
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,BENIGN,117
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,PortScan,72
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,BENIGN,71
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,PortScan,46
+Friday-WorkingHours-Morning.pcap_ISCX.csv,BENIGN,68
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Bot,2
+Friday-WorkingHours-Morning.pcap_ISCX.csv,BENIGN,44
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Bot,8
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,94
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,85
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,52
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,88
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,94
+Monday-WorkingHours.pcap_ISCX.csv,BENIGN,24
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,BENIGN,36
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,BENIGN,114
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,BENIGN,57
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,BENIGN,90
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,BENIGN,45
+Tuesday-WorkingHours.pcap_ISCX.csv,BENIGN,68
+Tuesday-WorkingHours.pcap_ISCX.csv,FTP-Patator,3
+Tuesday-WorkingHours.pcap_ISCX.csv,BENIGN,57
+Tuesday-WorkingHours.pcap_ISCX.csv,BENIGN,62
+Tuesday-WorkingHours.pcap_ISCX.csv,BENIGN,53
+Tuesday-WorkingHours.pcap_ISCX.csv,BENIGN,21
+Wednesday-workingHours.pcap_ISCX.csv,DoS Hulk,68
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,63
+Wednesday-workingHours.pcap_ISCX.csv,DoS Hulk,366
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,5
+Wednesday-workingHours.pcap_ISCX.csv,DoS Hulk,424
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,3
+Wednesday-workingHours.pcap_ISCX.csv,DoS Hulk,91
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,73
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,87
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,57
+Wednesday-workingHours.pcap_ISCX.csv,BENIGN,60

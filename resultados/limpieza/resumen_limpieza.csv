@@ -1,0 +1,9 @@
+archivo,originales,conservados,descartados,columnas_duplicadas_iguales
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,225745,225711,34,True
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,286467,286096,371,True
+Friday-WorkingHours-Morning.pcap_ISCX.csv,191033,190911,122,True
+Monday-WorkingHours.pcap_ISCX.csv,529918,529481,437,True
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,288602,288395,207,True
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,170366,170231,135,True
+Tuesday-WorkingHours.pcap_ISCX.csv,445909,445645,264,True
+Wednesday-workingHours.pcap_ISCX.csv,692703,691406,1297,True

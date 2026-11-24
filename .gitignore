@@ -221,3 +221,40 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================================
+# PROYECTO DEEP LEARNING - IDS
+# ==========================================
+
+# Dataset original
+/data/raw/
+
+# Dataset procesado
+/data/later/
+
+# Entornos locales
+tf_env/
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Registros de entrenamiento
+logs/
+tensorboard/
+
+# Credenciales
+.env.*
+!.env.example
+# Dataset original
+/data/raw/
+
+# Dataset limpio y consolidado
+/data/later/*.csv
+
+# Dataset procesado y depurado
+/data/processed/
+
+# Datos de entrenamiento
+/data/modelado/X_train.npy
+/data/modelado/y_train.npy
+/data/modelado/origen_train.csv

@@ -1,0 +1,9 @@
+﻿archivo,filas,columnas,separador,nulos,infinitos,no_numericos,etiquetas_vacias,duplicados_hash_candidatos,nombres_columnas_duplicados,diferencias_columnas_vs_primero
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,225745,79,';',4,64,0,0,2633,Fwd Header Length,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,286467,79,"','",15,727,0,0,72353,Fwd Header Length,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,191033,79,"','",28,216,0,0,6888,Fwd Header Length,0
+Monday-WorkingHours.pcap_ISCX.csv,529918,79,"','",64,810,0,0,26935,Fwd Header Length,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,288602,79,"','",18,396,0,0,35630,Fwd Header Length,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,170366,79,"','",20,250,0,0,6066,Fwd Header Length,0
+Tuesday-WorkingHours.pcap_ISCX.csv,445909,79,"','",201,327,0,0,24065,Fwd Header Length,0
+Wednesday-workingHours.pcap_ISCX.csv,692703,79,"','",1008,1586,0,0,81909,Fwd Header Length,0

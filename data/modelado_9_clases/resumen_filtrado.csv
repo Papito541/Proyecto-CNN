@@ -1,0 +1,4 @@
+particion,originales,conservados,excluidos
+train,1763582,1760685,2897
+val,377911,377290,621
+test,377911,377291,620

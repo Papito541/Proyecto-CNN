@@ -1,0 +1,15 @@
+{
+    "arquitectura": "CNN-1D",
+    "numero_clases": 9,
+    "caracteristicas": 65,
+    "parametros": 11081,
+    "semilla": 42,
+    "batch_size": 512,
+    "learning_rate_inicial": 0.001,
+    "epocas_ejecutadas": 15,
+    "mejor_epoca": 15,
+    "mejor_val_loss": 0.038786593824625015,
+    "accuracy_en_mejor_epoca": 0.9820244312286377,
+    "registros_train": 1760685,
+    "registros_val": 377290
+}

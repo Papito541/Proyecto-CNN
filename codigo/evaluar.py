@@ -17,9 +17,9 @@ from sklearn.metrics import (
 )
 
 BASE = Path(__file__).resolve().parent.parent
-DATOS = BASE / "data" / "modelado"
-MODELO = BASE / "resultados" / "cnn" / "mejor_modelo.keras"
-SALIDA = BASE / "resultados" / "evaluacion_cnn"
+DATOS = BASE / "data" / "modelado_9_clases"
+MODELO = BASE / "resultados" / "cnn_9_clases" / "mejor_modelo.keras"
+SALIDA = BASE / "resultados" / "evaluacion_cnn2.0"
 SALIDA.mkdir(parents=True, exist_ok=True)
 
 print("=== EVALUACION CNN ===")

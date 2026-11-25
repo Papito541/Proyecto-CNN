@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9817594376754283,
+  "precision_macro": 0.9605186569030401,
+  "recall_macro": 0.9225340961084227,
+  "f1_macro": 0.9406773360555706,
+  "tiempo_total_segundos": 4.83821319998242,
+  "latencia_media_ms_por_registro": 0.012823558473386377,
+  "registros_evaluados": 377291,
+  "batch_size": 512
+}

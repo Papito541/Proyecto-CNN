@@ -258,3 +258,24 @@ tensorboard/
 /data/modelado/X_train.npy
 /data/modelado/y_train.npy
 /data/modelado/origen_train.csv
+
+# Dataset original y procesado
+data/raw/
+data/processed/
+data/later/
+
+# Archivos pesados de modelado
+data/modelado/*.npy
+data/modelado/origen_*.csv
+
+# Archivos pesados del nuevo modelo
+data/modelado_9_clases/*.npy
+data/modelado_9_clases/origen_*.csv
+
+# Predicciones pesadas
+resultados/evaluacion_cnn_9_clases/*.npy
+resultados/evaluacion_cnn_9_clases/predicciones.csv
+
+# Archivos temporales
+__pycache__/
+*.pyc
